@@ -1,6 +1,6 @@
 Hi, I’m @zengchai. You guys can just call me Loy.
 - 20-year-old Malaysian
-- First year software engineering student
+- Second year software engineering student
 - Try to explore and gain new experience
 - Will upload some of my school projects here
 

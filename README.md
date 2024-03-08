@@ -8,7 +8,7 @@ Hi, I’m @zengchai. You guys can just call me Loy.
 
 
 ![](https://komarev.com/ghpvc/?username=zengchai&label=Profile%20views&color=749e6c&flat)
-[![Website](https://img.shields.io/badge/Website-%23707070.svg?logo=google-cloud&logoColor=white)](https://portfolio-react-zengchai.vercel.app/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zenchai.tan.98) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeng_chai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeng-chai-tan-a969341a9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeng-chai-tan-a969341a9) [![Website](https://img.shields.io/badge/Website-%23707070.svg?logo=google-cloud&logoColor=white)](https://portfolio-react-zengchai.vercel.app/) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zenchai.tan.98) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeng_chai) 
 
 
 <!---

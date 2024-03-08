@@ -4,7 +4,7 @@ Hi, I’m @zengchai. You guys can just call me Loy.
 - Try to explore and gain new experience
 - Will upload some of my school projects here
 
-![](https://komarev.com/ghpvc/?username=zengchai&label=Profile%20views&color=ffffff&style=flat)<br/>
+![](https://komarev.com/ghpvc/?username=zengchai&label=Profile%20views&color=a88965&style=for-the-badge)<br/>
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zengchai&theme=swift&hide_border=false)<br/>
 

@@ -4,7 +4,7 @@ Hi, I’m @zengchai. You guys can just call me Loy.
 - Try to explore and gain new experience
 - Will upload some of my school projects here
 
-![](https://komarev.com/ghpvc/?username=zengchai&label=Profile%20views&color=0e75b6&style=flat)<br/>
+![](https://komarev.com/ghpvc/?username=zengchai&label=Profile%20views&color=ffffff&style=flat)<br/>
 <br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zengchai&theme=swift&hide_border=false)<br/>
 
@@ -15,6 +15,4 @@ Hi, I’m @zengchai. You guys can just call me Loy.
 zengchai/zengchai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=zengchai&label=Profile%20views&color=12&icon=2&pretty=false" />
-</a>
+

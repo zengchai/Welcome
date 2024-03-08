@@ -20,11 +20,3 @@ You can click the Preview link to take a look at your changes.
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/zenchai.tan.98) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/zeng_chai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/zeng-chai-tan-a969341a9)
 
-
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=zengchai&theme=swift&hide_border=false&include_all_commits=true&count_private=true)<br/>
-
-[![](https://visitcount.itsvg.in/api?id=zengchai&icon=2&color=0)](https://visitcount.itsvg.in)
-
-![](https://github-readme-stats.vercel.app/api?username=zengchai&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-[![](https://visitcount.itsvg.in/api?id=zengchai&icon=2&color=0)](https://visitcount.itsvg.in)

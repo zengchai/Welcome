@@ -15,7 +15,6 @@ Hi, I’m @zengchai. You guys can just call me Loy.
 zengchai/zengchai is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-
-[![](https://visitcount.itsvg.in/api?id=zengchai&label=Profile%20views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=zengchai&label=Profile%20views&color=12&icon=2&pretty=false" />
+</a>

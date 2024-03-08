@@ -4,7 +4,6 @@ Hi, I’m @zengchai. You guys can just call me Loy.
 - Try to explore and gain new experience
 - Will upload some of my school projects here
 
-<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=zengchai&theme=swift&hide_border=false)<br/>
 
 

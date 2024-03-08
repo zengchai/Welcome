@@ -16,5 +16,6 @@ zengchai/zengchai is a ✨ special ✨ repository because its `README.md` (this 
 You can click the Preview link to take a look at your changes.
 --->
 
+[![](https://visitcount.itsvg.in/api?id=zengchai&label=Profile%20views&color=12&icon=2&pretty=false)](https://visitcount.itsvg.in)
 
-![](https://visitcount.itsvg.in/api?id=zengchai&icon=2&color=0)
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
